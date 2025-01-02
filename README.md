@@ -29,7 +29,5 @@ Contributing
 
 Feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
 
-License
 
-MIT License
 Made by hiranmayi Muthyala
